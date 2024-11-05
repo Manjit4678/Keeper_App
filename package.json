@@ -1,0 +1,17 @@
+{
+  "name": "keeper-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@babel/plugin-transform-numeric-separator": "^7.25.9",
+    "@babel/plugin-transform-private-methods": "^7.25.9",
+    "react-scripts": "^5.0.1"
+  }
+}
